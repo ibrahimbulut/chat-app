@@ -20,7 +20,7 @@ message.addEventListener('keyup', (event) => {
      document.getElementById('submitBtn').click();
     }
   });
-
+//Gelen mesajları için scroll u hep en altta tutmaya yarayan fonksiyon
 function updateScroll(){
     var chatwindow = document.getElementById('chat-window');
     chatwindow.scrollTop = chatwindow.scrollHeight;
