@@ -1,7 +1,0 @@
-https://cdnjs.com/libraries/socket.io
-
-
-bu adresten cdn js ile ker browserdan erişim sağlanablir hale getirdik.
-
-
-div#id-name yazıp enter tuşuna basılırsa html de id değerli div tag i oluşturulur.
